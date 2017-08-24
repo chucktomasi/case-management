@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Case" max_length="40" name="x_snc_casemgt_case" sizeclass="4" type="collection">
+        <element label="Category" max_length="32" name="category" reference="x_snc_casemgt_category" type="reference"/>
+    </element>
+</database>

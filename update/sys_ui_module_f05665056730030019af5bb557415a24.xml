@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Case Management">f785edc16730030019af5bb557415a52</application>
+        <filter/>
+        <name>Categories</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_casemgt.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-23 19:01:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f05665056730030019af5bb557415a24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Categories</sys_name>
+        <sys_package display_value="Case Management" source="x_snc_casemgt">9f85ed816730030019af5bb557415acc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">9f85ed816730030019af5bb557415acc</sys_scope>
+        <sys_update_name>sys_ui_module_f05665056730030019af5bb557415a24</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-23 19:01:55</sys_updated_on>
+        <table>x_snc_casemgt_category</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

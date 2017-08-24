@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>92596d456730030019af5bb557415a59</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_casemgt_category">
+    <x_snc_casemgt_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>Accounting</name>
+        <order>100</order>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-23 19:15:21</sys_created_on>
+        <sys_id>92596d456730030019af5bb557415a59</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-23 19:15:49</sys_updated_on>
+    </x_snc_casemgt_category>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-23 19:22:55</sys_created_on>
+        <sys_id>1c2ba5856730030019af5bb557415a7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Accounting</sys_name>
+        <sys_package display_value="Case Management" source="x_snc_casemgt">9f85ed816730030019af5bb557415acc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">9f85ed816730030019af5bb557415acc</sys_scope>
+        <sys_update_name>sys_metadata_link_1c2ba5856730030019af5bb557415a7e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-23 19:22:55</sys_updated_on>
+        <tablename>x_snc_casemgt_category</tablename>
+    </sys_metadata_link>
+</record_update>

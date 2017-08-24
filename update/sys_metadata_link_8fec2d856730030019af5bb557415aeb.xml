@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>cc2ca9856730030019af5bb557415ace</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="x_snc_casemgt_case">
+    <x_snc_casemgt_case action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to display_value="Isaac Zackery">bd826bf03710200044e0bfc8bcbe5d34</assigned_to>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <category display_value="IT">3f19e9456730030019af5bb557415a2f</category>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description>I'd like to get a new laptop, but I want to upgrade to the latest model.</description>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>CASE0001002</number>
+        <opened_at>2017-08-23 19:27:16</opened_at>
+        <opened_by display_value="Ofelia Sheffler">ca826bf03710200044e0bfc8bcbe5d6e</opened_by>
+        <order/>
+        <parent/>
+        <priority>3</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <short_description>Are the new laptops available yet?</short_description>
+        <sla_due/>
+        <state>1</state>
+        <sys_class_name>x_snc_casemgt_case</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-23 19:27:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cc2ca9856730030019af5bb557415ace</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-23 19:27:56</sys_updated_on>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_snc_casemgt_case>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-23 19:30:45</sys_created_on>
+        <sys_id>8fec2d856730030019af5bb557415aeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CASE0001002</sys_name>
+        <sys_package display_value="Case Management" source="x_snc_casemgt">9f85ed816730030019af5bb557415acc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">9f85ed816730030019af5bb557415acc</sys_scope>
+        <sys_update_name>sys_metadata_link_8fec2d856730030019af5bb557415aeb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-23 19:30:45</sys_updated_on>
+        <tablename>x_snc_casemgt_case</tablename>
+    </sys_metadata_link>
+</record_update>
